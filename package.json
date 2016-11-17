@@ -1,0 +1,12 @@
+{
+  "name": "nycda_cookies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
